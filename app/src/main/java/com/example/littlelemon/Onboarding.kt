@@ -1,4 +1,4 @@
-package com.example.littlelemonfoodorderingapp
+package com.example.littlelemon
 
 import android.content.Context
 import android.widget.Toast
